@@ -1,2 +1,2 @@
 # test
-用来联系使用github
+用来练习使用github
